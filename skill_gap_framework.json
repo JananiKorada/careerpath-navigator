@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Existing Skills",
+    "description": "Skills the learner already possesses through education, projects, personal experiences, volunteering, extracurricular activities, or previous work."
+  },
+  {
+    "category": "Transferable Skills",
+    "description": "Existing abilities that can be applied to the learner's target career."
+  },
+  {
+    "category": "High Priority Skill Gaps",
+    "description": "Skills that are essential for entering the target role and should be learned first."
+  },
+  {
+    "category": "Medium Priority Skill Gaps",
+    "description": "Skills that improve effectiveness and competitiveness but may not be essential for initial entry."
+  },
+  {
+    "category": "Low Priority Skill Gaps",
+    "description": "Skills that can be developed later after the learner has established the core capabilities required for the target role."
+  },
+  {
+    "category": "Proof of Skill",
+    "description": "A practical project, portfolio item, assignment, certification, interview task, or other evidence demonstrating the skill."
+  }
+]
