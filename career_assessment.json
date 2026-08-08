@@ -1,0 +1,63 @@
+[
+  {
+    "assessment_area": "Education",
+    "questions": [
+      "What is your highest level of education?",
+      "What subject or field are you studying or have you studied?",
+      "Are you currently studying, employed, unemployed, or looking for a career transition?"
+    ]
+  },
+  {
+    "assessment_area": "Career Aspiration",
+    "questions": [
+      "What type of career are you interested in?",
+      "What kind of work environment do you prefer?",
+      "What are your long-term career goals?"
+    ]
+  },
+  {
+    "assessment_area": "Existing Skills",
+    "questions": [
+      "What technical skills do you currently have?",
+      "What communication, teamwork, analytical, creative, or organizational skills do you have?",
+      "What projects, internships, volunteering, extracurricular activities, or other experiences have you completed?"
+    ]
+  },
+  {
+    "assessment_area": "Interests and Strengths",
+    "questions": [
+      "What activities do you enjoy doing?",
+      "What subjects or tasks are you naturally good at?",
+      "What type of problems do you enjoy solving?"
+    ]
+  },
+  {
+    "assessment_area": "Time Availability",
+    "questions": [
+      "How many hours can you realistically spend on career development each week?",
+      "Which days or times are usually available for learning?"
+    ]
+  },
+  {
+    "assessment_area": "Financial Constraints",
+    "questions": [
+      "What is your approximate learning budget?",
+      "Do you prefer free resources, low-cost resources, or are paid resources also possible?"
+    ]
+  },
+  {
+    "assessment_area": "Professional Network",
+    "questions": [
+      "Do you currently know professionals working in your preferred career field?",
+      "Have you previously received career guidance from a mentor or professional?",
+      "How comfortable are you with contacting professionals or joining professional communities?"
+    ]
+  },
+  {
+    "assessment_area": "Career Constraints",
+    "questions": [
+      "Are there any family, location, accessibility, financial, or time-related factors that affect your career planning?",
+      "Are there any types of jobs, learning methods, or work environments that are not suitable for you?"
+    ]
+  }
+]
