@@ -1,0 +1,36 @@
+[
+  {
+    "phase": "30 Days",
+    "focus": "Foundation",
+    "activities": [
+      "Understand the target role",
+      "Build foundational skills",
+      "Identify priority skill gaps",
+      "Start the first practical exercises"
+    ],
+    "expected_outcome": "The learner understands the target role and has started developing the most important foundational skills."
+  },
+  {
+    "phase": "60 Days",
+    "focus": "Application",
+    "activities": [
+      "Practice target-role skills",
+      "Complete practical exercises",
+      "Begin a portfolio project",
+      "Start building professional connections"
+    ],
+    "expected_outcome": "The learner can demonstrate practical application of relevant skills."
+  },
+  {
+    "phase": "90 Days",
+    "focus": "Career Readiness",
+    "activities": [
+      "Complete the portfolio project",
+      "Prepare or improve the resume",
+      "Practice interviews",
+      "Expand professional networking",
+      "Begin targeted job applications"
+    ],
+    "expected_outcome": "The learner has tangible evidence of skills and is prepared to begin pursuing relevant employment opportunities."
+  }
+]
