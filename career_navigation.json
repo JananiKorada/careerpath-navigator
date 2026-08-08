@@ -1,0 +1,54 @@
+[
+  {
+    "stage": "Career Assessment",
+    "purpose": "Understand the learner's education, aspirations, existing skills, interests, constraints, available time, budget, and professional network."
+  },
+  {
+    "stage": "Career Options",
+    "purpose": "Identify realistic career options that align with the learner's profile rather than providing generic recommendations."
+  },
+  {
+    "stage": "Target Role",
+    "purpose": "Select one primary target role and explain why it is suitable for the learner."
+  },
+  {
+    "stage": "Transferable Skills",
+    "purpose": "Identify existing skills that can be transferred to the target career."
+  },
+  {
+    "stage": "Skill Gap Analysis",
+    "purpose": "Identify high-, medium-, and low-priority skills that need to be developed."
+  },
+  {
+    "stage": "Learning Roadmap",
+    "purpose": "Create a personalized 30-, 60-, or 90-day learning plan."
+  },
+  {
+    "stage": "Weekly Schedule",
+    "purpose": "Convert the roadmap into realistic weekly tasks based on available time."
+  },
+  {
+    "stage": "Learning Recommendations",
+    "purpose": "Recommend relevant learning resources based on cost, time, accessibility, and expected outcomes."
+  },
+  {
+    "stage": "Professional Networking",
+    "purpose": "Help the learner build professional connections despite having limited existing networks."
+  },
+  {
+    "stage": "Proof of Learning",
+    "purpose": "Create a portfolio project, practical assignment, interview task, or other evidence of skills."
+  },
+  {
+    "stage": "Interview Preparation",
+    "purpose": "Prepare the learner for role-specific interviews and practical assessments."
+  },
+  {
+    "stage": "Career Readiness",
+    "purpose": "Measure progress toward becoming ready for the selected target role."
+  },
+  {
+    "stage": "Next Action",
+    "purpose": "Provide one concrete action that the learner can complete within the next 24 to 72 hours."
+  }
+]
