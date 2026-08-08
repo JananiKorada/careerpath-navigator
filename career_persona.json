@@ -1,0 +1,17 @@
+[
+  {
+    "persona": "First-generation learner with limited professional networks",
+    "description": "A learner who may have limited access to professional mentors, career guidance, industry knowledge, and professional networks.",
+    "primary_challenge": "Uncertainty about career options, required skills, learning pathways, professional networking, and how to become employment-ready.",
+    "goal": "Help the learner identify a realistic career destination and create an achievable pathway from aspiration to employment.",
+    "key_constraints": [
+      "Limited professional networks",
+      "Limited access to career mentors",
+      "Limited awareness of industry expectations",
+      "Limited or uncertain learning budget",
+      "Limited time available for learning",
+      "Lack of structured career guidance"
+    ],
+    "success_outcome": "The learner has a realistic target role, understands existing and missing skills, follows a personalized learning plan, builds proof of learning, develops professional connections, and knows the next career action."
+  }
+]
