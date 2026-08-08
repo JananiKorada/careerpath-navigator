@@ -1,0 +1,47 @@
+[
+  {
+    "category": "Career Clarity",
+    "weight": 10,
+    "measurement": "Has the learner identified a realistic target role?"
+  },
+  {
+    "category": "Core Skills",
+    "weight": 15,
+    "measurement": "Has the learner developed the essential skills required for the target role?"
+  },
+  {
+    "category": "Transferable Skills",
+    "weight": 10,
+    "measurement": "Has the learner identified and demonstrated relevant transferable skills?"
+  },
+  {
+    "category": "Practical Experience",
+    "weight": 15,
+    "measurement": "Has the learner completed practical activities related to the target role?"
+  },
+  {
+    "category": "Portfolio or Proof of Learning",
+    "weight": 15,
+    "measurement": "Does the learner have tangible evidence demonstrating their capabilities?"
+  },
+  {
+    "category": "Resume Readiness",
+    "weight": 10,
+    "measurement": "Does the learner have a target-role-focused resume?"
+  },
+  {
+    "category": "Interview Readiness",
+    "weight": 10,
+    "measurement": "Can the learner handle common and role-specific interview tasks?"
+  },
+  {
+    "category": "Professional Networking",
+    "weight": 10,
+    "measurement": "Has the learner started building relevant professional connections?"
+  },
+  {
+    "category": "Job Search Readiness",
+    "weight": 5,
+    "measurement": "Is the learner prepared to identify and pursue relevant opportunities?"
+  }
+]
